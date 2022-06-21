@@ -1,8 +1,8 @@
 {
   "name": "TorrentiumAPI",
   "description": "The backend for Torrentium Android App.",
-  "website": "https://github.com/itsZECHS/TorrentiumAPI",
-  "repository": "https://github.com/itsZECHS/TorrentiumAPI",
+  "website": "https://github.com/torb235/duker",
+  "repository": "https://github.com/torb235/duker",
   "logo": "https://files.catbox.moe/vt9ox5.png",
   "success_url": "/redoc",
   "env": {
